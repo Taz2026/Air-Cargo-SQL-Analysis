@@ -8,7 +8,7 @@ SQL-based analysis of air cargo operations to evaluate delays, capacity utilizat
 * Data modeling concepts
 
 Database Schema
-The project uses a relational database structure to model air cargo operations. It consists of three main tables: airlines, airports, and flights.
+  The project uses a relational database structure to model air cargo operations. It consists of three main tables: airlines, airports, and flights.
 * airlines – Contains airline company details.
 * airports – Stores airport location information, including airport codes, cities, and countries.
 * flights – Holds operational flight data such as cargo weight, capacity, revenue, and delays.

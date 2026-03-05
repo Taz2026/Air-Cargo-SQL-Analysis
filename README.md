@@ -62,14 +62,14 @@ Flight Volume by Airline
 Project Structure
 
 Air-Cargo-SQL-Analysis
-│
-├── data
-│   └── air_cargo_sample_data.sql
-│
-├── queries
-│   └── analysis_queries.sql
-│
-├── insights
-│   └── business_insights.md
-│
-└── README.md
+-│
+-├── data
+-│   └── air_cargo_sample_data.sql
+-│
+-├── queries
+-│   └── analysis_queries.sql
+-│
+-├── insights
+-│   └── business_insights.md
+-│
+-└── README.md

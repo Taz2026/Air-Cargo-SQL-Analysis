@@ -58,3 +58,18 @@ Revenue by Route
 
 Flight Volume by Airline
 * Tracks the number of flights operated by each airline to understand operational scale and workload distribution.
+
+Project Structure
+
+Air-Cargo-SQL-Analysis
+│
+├── data
+│   └── air_cargo_sample_data.sql
+│
+├── queries
+│   └── analysis_queries.sql
+│
+├── insights
+│   └── business_insights.md
+│
+└── README.md
